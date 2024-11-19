@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Still to be added](https://your-live-site-url.com)
+- Live Site URL: https://rui-martins23.github.io/newsletter-signup-from/
 
 ## My process
 ### Built with
