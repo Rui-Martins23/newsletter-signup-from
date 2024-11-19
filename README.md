@@ -39,7 +39,7 @@ Also, the most important aspects of a basic form validation, which shown to be b
 
 - [Bro Code] - This helped me for understand basic event listeners type of inputs and also basic form validation.
 - [Coding 2 Go] - Really direct, short and nice videos that helped to better understand form validation and basic ways of DOM manipulation.
-- [edsHTML] - Helped me tweak some final aspects of this project through its Youtube videos.
+- [eds HTML] - Helped me tweak some final aspects of this project through its Youtube videos.
 
 ## Author
 
